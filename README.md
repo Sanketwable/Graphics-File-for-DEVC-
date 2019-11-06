@@ -12,7 +12,10 @@
   
 #### Now you are ready to go
  
-  Open    Dev-cpp
+ 
+    Open   
+  
+         -Dev-cpp
          -open new project
          -select c++
          -select console graphics
